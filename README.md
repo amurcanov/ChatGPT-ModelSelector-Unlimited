@@ -2,7 +2,6 @@
 
 Tampermonkey-скрипт  
 Автор: **amurcanov**  
-Лицензия: BSD 3-Clause
 
 ---
 
@@ -31,9 +30,6 @@ Tampermonkey-скрипт
 • **GPT-5 Mini** — быстрая и дешёвая, изначально без ограничений.
 
 <img width="989" height="656" alt="image" src="https://github.com/user-attachments/assets/03cabbf5-1b1a-4ad5-9dd7-8c9ce44fdaee" />
-
-## Лицензия
-Проект распространяется по лицензии **BSD 3-Clause**. Полный текст лежит в файле `LICENSE`.
 
 ## Дисклеймер
 Скрипт предоставляется «как есть» исключительно в образовательных и исследовательских целях.  
