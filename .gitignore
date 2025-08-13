@@ -1,8 +1,6 @@
-# Логи
 *.log
 logs/
 
-# Системные файлы
 .DS_Store
 .DS_Store?
 ._*
@@ -12,7 +10,6 @@ ehthumbs.db
 Thumbs.db
 Desktop.ini
 
-# IDE и редакторы
 .vscode/
 .idea/
 *.swp
@@ -21,27 +18,22 @@ Desktop.ini
 .sublime-workspace
 .sublime-project
 
-# Временные файлы
 *.tmp
 *.temp
 .cache/
 
-# Исходный код (НЕ обфусцированный)
 src/
 source/
 original/
 dev/
 unobfuscated/
 
-# Резервные копии
 *.bak
 *.backup
 
-# Переменные окружения (если используете)
 .env
 .env.local
 
-# Заметки разработчика
 notes.txt
 todo.txt
 README.draft.md
