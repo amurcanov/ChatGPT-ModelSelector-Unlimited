@@ -5,7 +5,7 @@
 [![ChatGPT](https://img.shields.io/badge/ChatGPT-Enhanced-gradient?style=for-the-badge&color=06b6d4&labelColor=1e293b)](https://chatgpt.com)
 [![Stars](https://img.shields.io/github/stars/amurcanov/ChatGPT-ModelSelector-Unlimited?style=for-the-badge&color=fbbf24&labelColor=1e293b&label=⭐%20Stars)](https://github.com/amurcanov/ChatGPT-ModelSelector-Unlimited/stargazers)
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=20&duration=3000&pause=1000&color=6366F1&vCenter=true&multiline=true&random=false&width=600&height=60&lines=🎯+Полное+снятие+лимитов+ChatGPT;⚡+80+запросов+каждый+час+без+ограничений" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=20&duration=3000&pause=1000&color=6366F1&vCenter=true&multiline=true&random=false&width=600&height=60&lines=🎯+Полное+снятие+лимитов+ChatGPT - GPT-5;⚡+80+запросов+каждый+час+без+ограничений" alt="Typing SVG" />
 
 ## 🔥 Ключевое преимущество
 
