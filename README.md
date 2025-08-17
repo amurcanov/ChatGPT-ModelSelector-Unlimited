@@ -65,7 +65,7 @@
 
 ### Шаг 2: Установите скрипт
 
-[![Install Script](https://img.shields.io/badge/📥%20УСТАНОВИТЬ%20СКРИПТ-10B981?style=for-the-badge&logoColor=white&labelColor=1e293b)](https://github.com/amurcanov/ChatGPT-ModelSelector-Unlimited/blob/main/chat-model-selector.user.js)
+[![Install Script](https://img.shields.io/badge/📥%20УСТАНОВИТЬ%20СКРИПТ-10B981?style=for-the-badge&logoColor=white&labelColor=1e293b)](https://github.com/amurcanov/ChatGPT-ModelSelector-Unlimited/raw/refs/heads/main/chat-model-selector.user.js)
 
 ### Шаг 3: Откройте ChatGPT
 
