@@ -101,7 +101,7 @@
 ## ⚖️ Лицензия
 [![License](https://img.shields.io/badge/License-Proprietary%20(Obfuscated)-red?style=for-the-badge&labelColor=1e293b)](LICENSE)
 
-**Пропиетарная лицензия - Все права защищены © 2025 amurcanov**
+**Все права защищены © 2025 amurcanov**
 Скрипт содержит **обфусцированный JavaScript код** для защиты 
 интеллектуальной собственности. 
 
