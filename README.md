@@ -49,6 +49,8 @@
 - Адаптивная темная тема
 - Плавные анимации
 - Мобильная версия
+<img width="948" height="636" alt="image" src="https://github.com/user-attachments/assets/b163df28-b846-496a-9887-af2822548c42" />
+<img width="987" height="435" alt="image" src="https://github.com/user-attachments/assets/bd497f11-1e83-4dcf-928d-af1551362614" />
 
 ## 📦 Установка за 3 шага
 
